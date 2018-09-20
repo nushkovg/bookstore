@@ -1,0 +1,17 @@
+body {
+    font-family: Oswald;
+}
+
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: rgb(101, 173, 101);
+}
+
+.error {
+    background: rgb(168, 66, 66);
+}
